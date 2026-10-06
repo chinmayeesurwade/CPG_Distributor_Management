@@ -1,0 +1,5 @@
+sku,name,price,on_hand,reserved,status
+SKU01,Spiced Snack 12-pack,1000,30,5,Active
+SKU02,Baked Crackers 24-pack,800,20,0,Active
+SKU03,Fruit Bar 20-pack,1200,10,2,Active
+SKU04,Old Snack Pack,700,15,0,Inactive
