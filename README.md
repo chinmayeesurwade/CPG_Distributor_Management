@@ -1,5 +1,5 @@
 # CPG Distributor Management SaaS Implementation
-Independent portfolio simulation by Chinmayee Surwade. All companies, quotes, data, rules and targets are fictional.
+by Chinmayee Surwade. All companies, quotes, data, rules and targets are fictional.
 
 1. Read the Word case study, especially the worked order and evidence boundary.
 2. Open the Excel workbook; formulas calculate in Excel. Inspect Requirements, Vendor_Evaluation, RFQ_Costs and UAT.
